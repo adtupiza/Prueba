@@ -1,0 +1,28 @@
+PARADIGMA 
+Como paradigma denominamos todo aquel modelo, patrón o ejemplo que debe seguirse en determinada situación. 
+La palabra, como tal, proviene del griego παράδειγμα (parádeigma).
+En un sentido amplio, se refiere a una teoría o conjunto de teorías que sirve de modelo a seguir para 
+resolver problemas o situaciones determinadas que se planteen.
+
+EN PROGRAMACIÓN
+Un paradigma de programación se refiere a la forma en que un programador o un conjunto de programadores dan 
+solución a uno o varios problemas claramente definidos. En este sentido, representa una manera particular 
+de ofrecer soluciones.
+
+Existen distintos paradigmas de programación. Los cuatro principales son el imperativo, el declarativo, 
+el lógico, el funcional y el orientado a objetos. Estos paradigmas se diferencian unos de otros debido 
+a la forma de abordar los elementos involucrados en el problema, así como los pasos necesarios para llegar 
+a su solución.
+
+Entre los principales paradigmas encontramos a:
+
+-Imperativo. Los programas se componen de un conjunto de sentencias que cambian su estado. Son secuencias 
+de comandos que ordenan acciones a la computadora.
+-Declarativo. Opuesto al imperativo. Los programas describen los resultados esperados sin listar explícitamente 
+los pasos a llevar a cabo para alcanzarlos.
+-Lógico. El problema se modela con enunciados de lógica de primer orden.
+-Funcional. Los programas se componen de funciones, es decir, implementaciones de comportamiento que reciben 
+un conjunto de datos de entrada y devuelven un valor de salida.
+-Orientado a objetos. El comportamiento del programa es llevado a cabo por objetos, entidades que representan 
+elementos del problema a resolver y tienen atributos y comportamiento.
+
